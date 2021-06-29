@@ -5,6 +5,7 @@ body{
 }
 
 h1{
+    text-align: center;
     font-size: 2em;
      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
@@ -23,6 +24,21 @@ font-size: 1;
  }
  ol{
 
-list-style-type: lower-greek;
-list-style-image: repeating-linear-gradient(to left bottom , red , blue );
+list-style-type: upper-roman;
  } 
+ a{
+    text-decoration: none;
+    /* text-decoration: line-through; (remove link )*/
+ }
+ p{
+     text-align:left ;
+ }
+ em{
+     font-weight: bold;
+    font-style: normal; 
+ }
+ b{
+     font-weight: normal;
+     font-style: italic;
+ }
+
