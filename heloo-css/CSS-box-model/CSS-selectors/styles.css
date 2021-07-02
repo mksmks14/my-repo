@@ -1,0 +1,120 @@
+body{
+background-color: rgb(115, 165, 160);
+
+}
+.Name{
+    color: white;
+    background-color: rgb(129, 128, 62);
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    border: 20px;
+    border-radius: 10px 100px / 120px;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 650px;
+
+}
+.synopsis{
+    color:white ;
+    font-style: italic;
+    background-color: rgb(103, 116, 77);
+    text-align: center;
+    font-weight: bold;
+     padding: 20px;
+     border: 2px solid black;
+     border-radius: 10px 100px /120px;
+     width: 600px;
+     margin: auto;
+     margin-bottom: 20px;
+}
+
+.button{
+color: white;
+background-color: teal;
+font-weight: bold;
+text-align: center;
+padding: 20px;
+border: 2px solid black;
+border-radius: 10px 100px / 120px;
+width: 200px;
+margin:auto;
+margin-top: 20px;
+
+}   
+.call-ti-action{
+    font-style: italic;
+    background-color: yellow;
+} 
+
+.mohammad{
+color:white;
+background-color: rgb(57, 57, 88);
+text-align: center;
+font-weight: bold;
+padding: 20px;
+border: 2px solid black;
+border-radius: 10px 100px / 120px;
+margin: auto;
+width: 550px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin: auto;
+}
+.kamal{
+    color: white;
+    background-color: rgb(87, 43, 87);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px 100px / 120px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 500px;
+}
+.shehab{
+    color: white;
+    background-color: rgb(121, 87, 81);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px 100px / 120px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    }
+  .synopsis em{
+      font-style: normal;
+
+  }
+  .mohammad em {
+      font-style: normal;
+  }
+ /* unvisited link */
+a:link {
+    color:palegreen;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:rgb(24, 24, 31);
+    
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color:white;
+  }
+  

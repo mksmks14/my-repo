@@ -1,5 +1,5 @@
 body{
-    color: rgb(0, 0, 0);
+    color: rgb(99, 83, 83);
     background-color: peru ;
 }
 h1{
@@ -20,3 +20,22 @@ ul{
  p{
      text-align: left;
  }
+ .mohammad{
+     margin-top: 200px;
+
+ }
+ a:link{
+     color: salmon;
+     text-decoration: none;
+ }
+ a:visited{
+     color: rgb(16, 224, 138);
+ }
+ a:hover{
+     color: black;
+     text-decoration: underline;
+ }
+ a:active{
+     color: blue;
+ }
+ 

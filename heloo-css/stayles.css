@@ -1,6 +1,6 @@
 body{
     color: rgb(0, 0, 0);
-    background-color: peru ;
+    background-color: rgb(161, 127, 92) ;
     font-size: 20px;    
 }
 
@@ -20,11 +20,29 @@ font-size: 1;
 }
  ul{
      list-style-type: circle;
+     color: white;
+     background-color: rgb(62, 122, 172);
+     border: 2px solid white;
+     border-radius: 10px 100px / 120px;
+     width: 200px;
+     margin-bottom: 20px;
+     margin-top: 20px;
+     margin-left: 50px;
+     
      
  }
  ol{
 
 list-style-type: upper-roman;
+color: white;
+background-color: teal;
+border: 2px solid black;
+border-radius: 10px 100px 100px 120px;
+font-weight: bold;
+width: 300px;
+margin-left: 50px;
+margin-top: 20px;
+
  } 
  a{
     text-decoration: none;
@@ -41,4 +59,28 @@ list-style-type: upper-roman;
      font-weight: normal;
      font-style: italic;
  }
+.headee{
+    color: white;
+    background-color: rgb(53, 50, 53);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    border: 20px;
+    border-radius: 10px 100px / 120px;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 500px;
 
+}
+.list{
+    color: white;
+    background-color: rgb(83, 59, 83);
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px 100px / 120px;
+    width: 200px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
